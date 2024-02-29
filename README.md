@@ -20,7 +20,7 @@ The ZK Verify Connector is built upon the [ZKInterface code repository](https://
 
 - **Standardized Communication:** It defines a standard way for ZK systems to communicate, specifying how to format and exchange messages. This standardization is crucial for interoperability, enabling different ZK systems and applications to understand each other and work together seamlessly.
 
-- **Support for Various ZK Schemes:** The interface supports a wide range of ZK schemes, including SNARKs (Succinct Non-interactive ARguments of Knowledge), STARKs (Scalable Transparent ARguments of Knowledge), and more. This broad support allows developers to choose the most appropriate ZK technology for their specific needs.
+- **Support for Various ZK Schemes:** The interface supports a wide range of ZK schemes, including SNARKs (Succinct Non-interactive ARguments of Knowledge). This broad support allows developers to choose the most appropriate ZK technology for their specific needs.
 
 The zkInterface protocol acts as a bridge between ZK circuits (mathematical descriptions of computations to be proved) and ZK provers/verifiers (systems that generate and verify proofs), facilitating the following process:
 
