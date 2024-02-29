@@ -1,0 +1,6 @@
+[submodule "rippled"]
+	path = rippled
+	url = git@github.com:pantyukhov/rippled.git
+[submodule "zk_verify"]
+	path = zk_verify
+	url = git@github.com:pantyukhov/zk_verify.git
